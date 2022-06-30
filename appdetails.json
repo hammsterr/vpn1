@@ -9,6 +9,7 @@
   "blocked":[
   ],
   "free":[
-    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.123","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.123","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"Japan 2","country":"Japan","image":"japan","ip":"36.8.11.36","active":"true","signal":"a"},
   ]
 }
