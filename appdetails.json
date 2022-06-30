@@ -9,6 +9,6 @@
   "blocked":[
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"de1.freeopenvpn.org","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Germany vpn","country":"Germany","image":"germany","ip":"de1.freeopenvpn.org","active":"true","signal":"a"},
   ]
 }
